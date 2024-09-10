@@ -4,19 +4,54 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=50&color=D5DB42&background=000000&center=true&vCenter=true&multiline=true&width=1012&height=109&lines=Hi!+I'm+Alessandro!;Let's+code+together!)](https://git.io/typing-svg)
 
+# Hi! 👋 :uk:
 
-# Hi! 👋
-
-> **“The most disastrous thing that you can ever learn is your first programming language”**
+> #### “The most disastrous thing that you can ever learn is your first programming language.”
+> 
 > *Alan Kay*
 
-Ciao! Sono Alessandro, uno sviluppatore full-stack con una passione per il design, la tecnologia e la risoluzione di problemi. Ho una forte esperienza nello sviluppo sia front-end che back-end, utilizzando tecnologie come **PHP, JavaScript, Vue.js, Laravel, HTML/CSS, Sass, Bootstrap, Vite.js**, e **MySQL**.
+Hi! I'm Alessandro, a **full-stack developer** with a passion for **technology**, **problem-solving**, and **design**.
 
-Ho studiato Design e Comunicazione Visiva al Politecnico, il che mi permette di combinare creatività e competenze tecniche nei miei progetti. Amo creare interfacce utente intuitive e performanti, e costruire applicazioni robuste e scalabili.
+As **Alan Kay**'s quote above suggests, something **disastrous** happened the first time I started **learning** how **to code**:
+I never stopped!
 
-Sono sempre entusiasta di imparare nuove tecnologie e migliorare le mie capacità. Attualmente sto esplorando [menziona una tecnologia o un argomento di tuo interesse] e sono alla ricerca di nuove opportunità per crescere e contribuire a progetti innovativi.
+I have a strong inclination towards both front-end and back-end development, using technologies like **PHP, JavaScript, Vue.js, Laravel, HTML/CSS, Sass, Bootstrap, Vite.js,** and **MySQL**.
 
-Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, sentiti libero di contattarmi! 😊
+I studied **Design and Visual Communication** at **Politecnico**, which gave me a solid foundation in design and allowed me to **create** with **materials**.
+
+As I began exploring the world of **programming** for fun, I realized that I could continue **to create** in a different but highly stimulating way—using **code**. **Problems** are always just around the corner, and finding a **solution** requires **investigating** and continuously **learning** new **skills**. All of this brings me **joy**. :sparkles:
+
+So, I started and completed the **Boolean** course to turn this **passion** into my **profession**. :muscle:
+
+I'm currently exploring **Three.js** and looking for new **opportunities** to **grow** and contribute to innovative projects.
+
+If you'd like to collaborate or just chat about this wonderful world, feel free to reach out! 😊
+
+---
+
+
+# Ciao! 👋 :it: 
+
+> #### “La cosa più disastrosa che tu possa mai imparare è il tuo primo linguaggio di programmazione.”
+> 
+> *Alan Kay*
+
+Ciao! Sono Alessandro, uno sviluppatore **full-stack** con una passione per la **tecnologia**, la **risoluzione di problemi** ed il **design**.  
+
+Come dice **Alan Kay** nella citazione in alto, una cosa **disastrosa** è accaduta la prima volta che ho iniziato ad **imparare** a **programmare**:  
+**non ho più smesso!**  
+
+Ho una forte propensione allo sviluppo sia front-end che back-end, utilizzando tecnologie come **PHP, JavaScript, Vue.js, Laravel, HTML/CSS, Sass, Bootstrap, Vite.js**, e **MySQL**.
+
+Ho studiato **Design e Comunicazione Visiva** al **Politecnico**, per mettere solide basi per la progettazione ed aver modo di **creare** con la **materia**.  
+
+Avvicinandomi al mondo della **programmazione** per gioco, mi sono reso conto che potevo continuare a **creare** in un modo diverso ma enormemente stimolante, con il **codice**. Il **problema** è sempre dietro l'angolo e per trovare una **soluzione** si è obbligati a **indagare** imparando sempre nuove **competenze**. Tutto questo mi dà **gioia**. :sparkles: 
+
+Così ho iniziato e completato il percorso **Boolean** per far diventare questa **passione** il mio **lavoro**. :muscle:
+
+Attualmente sto esplorando **Three.js** e sono alla ricerca di nuove **opportunità** per **crescere** e contribuire a progetti innovativi.
+
+Se vuoi collaborare o semplicemente fare due chiacchiere su questo magnifico mondo, sentiti libero di contattarmi! 😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-casalaspro-45911a315/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:casalaspro.alessandro@gmail.com)
