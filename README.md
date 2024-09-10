@@ -89,7 +89,7 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 
 <div>
   
-### <a href="https://github.com/casalaspro/phpsqliteconnect target="_blank">BoolDeck</a>
+### <a href="https://github.com/casalaspro/phpsqliteconnect" target="_blank">BoolDeck</a>
 
 <p>The famous Pokedeck made as Web App using PokèApi, the Pokemon Api! :o: :cat: :desktop_computer:</p>
 </div>
@@ -112,6 +112,7 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 </table>
 
 ## <div align="center">:bar_chart:	STATS</div>
+
 ![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api/?username=casalaspro\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casalaspro\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515&layout=compact)
 
