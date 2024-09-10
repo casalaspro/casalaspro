@@ -1,6 +1,6 @@
 <!-- ![Banner Casalaspro](/assets/banner.jpg "Banner Casalaspro") -->
 
-<img src="assets/banner.jpg" max-width="100%">
+<img src="assets/banner_github.svg" width="100%">
 
 # Ehilà! 👋
 
