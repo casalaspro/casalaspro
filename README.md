@@ -45,7 +45,7 @@ Ho una forte propensione allo sviluppo sia front-end che back-end, utilizzando t
 
 Ho studiato **Design e Comunicazione Visiva** al **Politecnico**, per mettere solide basi per la progettazione ed aver modo di **creare** con la **materia**.  
 
-Avvicinandomi al mondo della **programmazione** per gioco, mi sono reso conto che potevo continuare a **creare** in un modo diverso ma enormemente stimolante, con il **codice**. Il **problema** è sempre dietro l'angolo e per trovare una **soluzione** si è obbligati a **indagare** imparando sempre nuove **competenze**. Tutto questo mi dà **gioia**. :sparkles: 
+Avvicinandomi al mondo della **programmazione** per gioco, mi sono reso conto che potevo continuare a **creare** in un modo diverso ma enormemente stimolante, con il **codice**. Il **problema** è sempre dietro l'angolo e per trovare una **soluzione** si è obbligati a **indagare imparando** sempre nuove **competenze**. Tutto questo mi dà **gioia**. :sparkles: 
 
 Così ho iniziato e completato il percorso **Boolean** per far diventare questa **passione** il mio **lavoro**. :muscle:
 
