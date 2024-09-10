@@ -1,10 +1,6 @@
 <!-- ![Banner Casalaspro](/assets/banner.jpg "Banner Casalaspro") -->
-<style>
-img{
-    object-fit:cover;
-}
-</style>
-<img src="assets/banner.jpg" width="100%" height="200">
+
+<img src="assets/banner.jpg" max-width="100%">
 
 # Ehilà! 👋
 
