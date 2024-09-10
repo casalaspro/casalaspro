@@ -17,6 +17,30 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tuo.email@example.com)
 
 | :hammer_and_wrench: Currently Working On *** | :books: Currently Learning |
-| ----------------------------------------- | ------------------ |
+| :--- | ---: |
+| - [BoolVoyage](https://github.com/casalaspro/vite-bool-voyage)  | Content Cell  |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
+<table width='100%'>
+  <tbody>
+    <tr>
+      <td>
+        <h3> :hammer_and_wrench: Currently Working On</h3>
+        <hr>
+      </td>
+      <td>
+        <h3>:books: Currently Learning</h3>
+        <hr>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li><strong><a href="https://github.com/casalaspro/vite-bool-voyage">BoolVoyage</a></strong></li>
+          <li><strong><a href="https://github.com/casalaspro/vite-bool-voyage">BoolVoyage</a></strong></li>
+        </ul>
+      </td>
+      <th align="center">Are</th>
+    </tr> 
+  </tbody>
+</table>
