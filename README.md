@@ -68,34 +68,31 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 <td valign="top" height="170">
   
 ### <div align="center">:hammer_and_wrench: Currently I'm workin' on</div>  
- <hr>
+ <hr style="height:1px;border-width:0;color:gray;">
 <div align="left">  
-  <!-- <ul> -->
-    <li>
-      <a href="https://github.com/casalaspro/vite-bool-voyage" target="_blank">BoolVoyage</a>
-      <p>A Web App to plan trips and stops. :airplane: :anchor: :beach_umbrella:	</p>
-    </li>
-    <li>
-      <a href="https://github.com/casalaspro/phpsqliteconnect" target="_blank">BoolVoyage-DB</a>
+  <div>
+    <a style="font-weight:800" href="https://github.com/casalaspro/vite-bool-voyage" target="_blank">BoolVoyage</a>
+    <p>A Web App to plan trips and stops. :airplane: :anchor: :beach_umbrella:	</p>
+  </div>
+  <div>
+      <a style="font-weight:800" href="https://github.com/casalaspro/phpsqliteconnect" target="_blank">BoolVoyage-DB</a>
       <p>The BoolVoyage Database made with plain PHP and SQLite. :computer:	:floppy_disk:	</p>
-    </li>
-    <li>
-      <a href="#" target="_blank">BoolDeck</a>
+  </div>
+  <div>
+      <a style="font-weight:800" href="#" target="_blank">BoolDeck</a>
       <p>The famous Pokedeck made as Web App using PokèApi, the Pokemon Api! :o: :cat: :desktop_computer:</p>
-    </li>
-    
-  <!-- </ul> -->
-  
+  </div>
 </div>
 </td>
 
 <td valign="top" height="170">
   
  ### <div align="center">:books: Currently I'm learning</div> 
-  <hr> 
+  <hr style="height:1px;border-width:0;color:gray;"> 
   
 <div align="left">  
-<a href="https://threejs.org/" target="_blank">Three.js<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png" alt="Three.js" title="Three.js" height="50" /></a> 
+<a style="font-weight:800" href="https://threejs.org/" target="_blank">Three.js</a> 
+<img style="margin: 10px; display:block;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png" alt="Three.js" title="Three.js" height="50" />
 </div>
 </td>
   
