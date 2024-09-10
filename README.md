@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=50&color=D5DB42&background=000000&center=true&vCenter=true&multiline=true&width=1012&height=109&lines=Hi!+I'm+Alessandro!;Let's+code+together!)](https://git.io/typing-svg)
 
 
-# Ehilà! 👋
+# Hi! 👋
 
 > **“The most disastrous thing that you can ever learn is your first programming language”**
 > *Alan Kay*
@@ -25,27 +25,28 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 | :--- | ---: |
 | - [BoolVoyage](https://github.com/casalaspro/vite-bool-voyage)  | Content Cell  |
 | Content Cell  | Content Cell  |
-## <div align="center">💻 COMPETENZE TECNICHE</div>
+## <div align="center">💻 TECHNICAL SKILLS</div>
 
 <div align="center">
-<table><tr>
+<table>
+<tr>
 
 <td valign="top" height="170">
   
-### <div align="center">Backend</div>  
-<div align="center">  
-  <a href="https://www.java.com/it/" target="_blank"><img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo.png" alt="Java" title="Java" height="60" /></a>  
-  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" alt="PHP" title="PHP" height="50" /></a>  
-  <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" title="Laravel" height="50" /></a>
-  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" alt="MySQL" title="MySQL" height="50" /></a>   
+  ### <div align="center">Backend</div>  
+  <div align="center">  
+    <a href="https://www.java.com/it/" target="_blank"><img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo.png" alt="Java" title="Java" height="60" /></a>  
+    <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" alt="PHP" title="PHP" height="50" /></a>  
+    <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" title="Laravel" height="50" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://www.geekandjob.com/uploads/wiki/eceb15684d4183c66f73c1a9bb777eef708b2b66.png" alt="MySQL" title="MySQL" height="50" /></a>   
 
-</div>
+  </div>
 </td>
 
 <td valign="top" height="170">
   
- ### <div align="center">Frontend</div>  
+ ### <div align="center">Frontend</div>
+
   
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="JavaScript" title="JavaScript" height="50" /></a>  
@@ -67,6 +68,7 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 <td valign="top" height="170">
   
 ### <div align="center">:hammer_and_wrench: Currently I'm workin' on</div>  
+ <hr>
 <div align="left">  
   <!-- <ul> -->
     <li>
@@ -89,7 +91,8 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 
 <td valign="top" height="170">
   
- ### <div align="center">:books: Currently I'm learning</div>  
+ ### <div align="center">:books: Currently I'm learning</div> 
+  <hr> 
   
 <div align="left">  
 <a href="https://threejs.org/" target="_blank">Three.js<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png" alt="Three.js" title="Three.js" height="50" /></a> 
