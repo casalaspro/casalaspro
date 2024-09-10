@@ -66,6 +66,7 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 <div align="center">
   
 <table><tr>
+  
 <td valign="top" height="170">
   
 ## <div align="center">:hammer_and_wrench: Currently I'm workin' on</div>
@@ -73,17 +74,23 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 <div align="left">  
 
 <div>
-<a style="font-weight:800" href="https://github.com/casalaspro/vite-bool-voyage" target="_blank">BoolVoyage</a>
+
+### <a style="font-weight:800" href="https://github.com/casalaspro/vite-bool-voyage" target="_blank">BoolVoyage</a>
+
 <p>A Web App to plan trips and stops. :airplane: :anchor: :beach_umbrella:	</p>
 </div>
 
 <div>
-<a style="font-weight:800" href="https://github.com/casalaspro/phpsqliteconnect" target="_blank">BoolVoyage-DB</a>
+  
+### <a href="https://github.com/casalaspro/phpsqliteconnect" target="_blank">BoolVoyage-DB</a>
+
 <p>The BoolVoyage Database made with plain PHP and SQLite. :computer:	:floppy_disk:	</p>
 </div>
 
 <div>
-<a style="font-weight:800" href="#" target="_blank">BoolDeck</a>
+  
+### <a href="https://github.com/casalaspro/phpsqliteconnect target="_blank">BoolDeck</a>
+
 <p>The famous Pokedeck made as Web App using PokèApi, the Pokemon Api! :o: :cat: :desktop_computer:</p>
 </div>
 
@@ -94,8 +101,10 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
   
 ## <div align="center">:books: Currently I'm learning</div>
 
-<div align="left">  
-<a style="font-weight:800" href="https://threejs.org/" target="_blank">Three.js</a> 
+<div align="left">
+  
+### <a href="https://threejs.org/" target="_blank">Three.js</a> 
+
 <img style="margin: 10px; display:block;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png" alt="Three.js" title="Three.js" height="50" />
 </div>
 </td>
