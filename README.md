@@ -1,4 +1,10 @@
-
+<!-- ![Banner Casalaspro](/assets/banner.jpg "Banner Casalaspro") -->
+<style>
+img{
+    object-fit:cover;
+}
+</style>
+<img src="assets/banner.jpg" width="100%" height="200">
 
 # Ehilà! 👋
 
@@ -13,8 +19,8 @@ Sono sempre entusiasta di imparare nuove tecnologie e migliorare le mie capacit�
 
 Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, sentiti libero di contattarmi! 😊
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-profilo)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:tuo.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-casalaspro-45911a315/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:casalaspro.alessandro@gmail.com)
 
 | :hammer_and_wrench: Currently Working On *** | :books: Currently Learning |
 | :--- | ---: |
