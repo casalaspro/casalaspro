@@ -27,6 +27,9 @@ I'm currently exploring **Three.js** and looking for new **opportunities** to **
 
 If you'd like to collaborate or just chat about this wonderful world, feel free to reach out! 😊
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-casalaspro-45911a315/)
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:casalaspro.alessandro@gmail.com)
+
 ---
 
 
