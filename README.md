@@ -21,10 +21,6 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-casalaspro-45911a315/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:casalaspro.alessandro@gmail.com)
 
-| :hammer_and_wrench: Currently Working On *** | :books: Currently Learning |
-| :--- | ---: |
-| - [BoolVoyage](https://github.com/casalaspro/vite-bool-voyage)  | Content Cell  |
-| Content Cell  | Content Cell  |
 ## <div align="center">💻 TECHNICAL SKILLS</div>
 
 <div align="center">
@@ -95,4 +91,12 @@ Se vuoi collaborare o semplicemente fare due chiacchiere sulla tecnologia, senti
 <img style="margin: 10px; display:block;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png" alt="Three.js" title="Three.js" height="50" />
 </div>
 </td>
-  
+
+### <div align="center">:bar_chart:	STATS</div>
+![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api/?username=casalaspro\&show_icons=true\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515\&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casalaspro\&title_color=fff\&icon_color=79ff97\&text_color=9f9f9f\&bg_color=151515&layout=compact)
+
+
+
+
+
