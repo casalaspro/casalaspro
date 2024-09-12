@@ -127,7 +127,7 @@ Se vuoi collaborare o semplicemente fare due chiacchiere su questo magnifico mon
 
 <div>
   
-### <a href="https://github.com/casalaspro/phpsqliteconnect" target="_blank">BoolDeck</a>
+### <a href="[https://github.com/casalaspro/phpsqliteconnect](https://github.com/casalaspro/vue-pokedex)" target="_blank">BoolDeck</a>
 
 <p>The famous Pokedeck made as Web App using PokèApi, the Pokemon Api! :o: :cat: :desktop_computer:</p>
 </div>
