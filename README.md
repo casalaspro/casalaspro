@@ -112,6 +112,15 @@ Se vuoi collaborare o semplicemente fare due chiacchiere su questo magnifico mon
 <div align="left">  
 
 <div>
+  
+### <a href="https://github.com/casalaspro/vue-pokedex" target="_blank">BoolDeck</a>
+
+<p>The famous Pokedeck made as Web App using PokèApi, the Pokemon Api! :o: :cat: :desktop_computer:</p>
+</div>
+
+</div>
+
+<div>
 
 ### <a style="font-weight:800" href="https://github.com/casalaspro/vite-bool-voyage" target="_blank">BoolVoyage</a>
 
@@ -125,14 +134,6 @@ Se vuoi collaborare o semplicemente fare due chiacchiere su questo magnifico mon
 <p>The BoolVoyage Database made with plain PHP and SQLite. :computer:	:floppy_disk:	</p>
 </div>
 
-<div>
-  
-### <a href="https://github.com/casalaspro/vue-pokedex" target="_blank">BoolDeck</a>
-
-<p>The famous Pokedeck made as Web App using PokèApi, the Pokemon Api! :o: :cat: :desktop_computer:</p>
-</div>
-
-</div>
 </td>
 
 <td valign="top" height="170">
